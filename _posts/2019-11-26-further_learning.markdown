@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Further Learning"
-date:       2019-11-27 04:05:42 +0000
+date:       2019-11-26 23:05:43 -0500
 permalink:  further_learning
 ---
 
