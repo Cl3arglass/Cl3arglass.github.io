@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rspec and Test Driven Development"
-date:       2019-12-04 07:19:52 +0000
+date:       2019-12-04 02:19:53 -0500
 permalink:  rspec_and_test_driven_development
 ---
 
@@ -37,6 +37,9 @@ describe "a_method_to_test" do
 end
 ```
 
+
+Lastly run: bin/rspec --format doc 
+to see your test execute.
 
 All in all super easy but super handy when devloping on a team or when you want to grow your code base.
 
